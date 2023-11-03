@@ -293,13 +293,6 @@ h3 {
   z-index: 30;
 }
 
-.case-img{
-  img {
-    width:33%;
-}
- }
-
-
 .vision-box>span {
   position: absolute;
   top: 0;
@@ -336,7 +329,6 @@ h3 {
 #cases>ul {
   display: flex;
   list-style: none;
-  justify-content: center;
 }
 
 li {
