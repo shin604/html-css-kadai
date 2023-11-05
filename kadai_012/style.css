@@ -321,30 +321,30 @@ h3 {
   margin: 10px 0 0 0;
 }
  /* 導入企業 */
- #cases {
+ #cases{
   margin: 40px 0;  
   width: 100%;
 }
 
-ul {
+ul{
   display: flex;
   list-style: none;
 }
 
-li {
+li{
   width: 33%;
   margin: 20px;
 }
 
 .case-card {
   background-color: #ffffff;
-  min-width: 400px;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.05);
 }
 
-.case-img { 
-  width: 100%;
+.case-img{
+  width:100%;
 }
+
 
 .case-info {
   padding:10px 20px 10px 20px;
