@@ -322,11 +322,11 @@ h3 {
 }
  /* 導入企業 */
  #cases {
-  margin: 40px auto 40px auto;  
+  margin: 40px 0;  
   width: 100%;
 }
 
-#cases>ul {
+ul {
   display: flex;
   list-style: none;
 }
